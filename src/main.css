@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+body{
+    font-family: 'Montserrat';
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+  .bg{
+      background: url(../img/landing.png) center;
+      height: 804px;
+      position: relative;
+  }
+  .col-sm-5 p{
+      background-color: blueviolet;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 40px;
+      line-height: 49px;
+      color: #1F2430;
+           
+  }
